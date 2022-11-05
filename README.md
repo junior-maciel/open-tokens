@@ -1,2 +1,2 @@
 # open-tokens
-Repository for studying design sheets.
+Repository for studying design tokens.

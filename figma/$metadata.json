@@ -1,6 +1,9 @@
 {
   "tokenSetOrder": [
-    "global",
-    "elevation"
+    "core",
+    "semantic",
+    "semantic/light",
+    "semantic/dark",
+    "components"
   ]
 }

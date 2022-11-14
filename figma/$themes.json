@@ -4,10 +4,10 @@
     "name": "Light",
     "selectedTokenSets": {
       "core": "source",
-      "semantic": "enabled",
-      "components": "enabled",
       "semantic/light": "enabled",
-      "semantic/dark": "disabled"
+      "semantic/dark": "disabled",
+      "components/button": "enabled",
+      "components/avatar": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -16,10 +16,10 @@
     "name": "Dark",
     "selectedTokenSets": {
       "core": "source",
-      "semantic": "enabled",
-      "components": "enabled",
       "semantic/light": "disabled",
-      "semantic/dark": "enabled"
+      "semantic/dark": "enabled",
+      "components/button": "enabled",
+      "components/avatar": "enabled"
     },
     "$figmaStyleReferences": {}
   }

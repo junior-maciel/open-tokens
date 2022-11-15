@@ -1,6 +1,11 @@
 {
   "tokenSetOrder": [
     "core",
+    "tonal / navigational / blue",
+    "tonal / navigational / group-blue",
+    "tonal / accent / blue",
+    "tonal / accent / group-blue",
+    "tonal / signal / green",
     "semantic/light",
     "semantic/dark",
     "components/button",

@@ -191,6 +191,14 @@
         "value": "#189383",
         "type": "color"
       },
+      "50": {
+        "value": "#158275",
+        "type": "color"
+      },
+      "55": {
+        "value": "#14726C",
+        "type": "color"
+      },
       "05": {
         "value": "#F0F9FA",
         "type": "color"

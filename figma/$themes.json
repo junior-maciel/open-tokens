@@ -7,17 +7,16 @@
       "semantic/dark": "disabled",
       "components/button": "enabled",
       "components/avatar": "enabled",
-      "tonal / accent / blue": "disabled",
       "tonal / signal / green": "enabled",
-      "tonal / accent / group-blue": "disabled",
       "tonal / navigational / group-blue": "enabled",
       "tonal / navigational / blue": "disabled",
       "core / color": "source",
       "core / sizings": "source",
       "core / spacings": "source",
       "core / typographies": "source",
+      "tonal / accent / blue": "disabled",
       "tonal / accent / green": "enabled",
-      "semantic/dark_Copy": "disabled"
+      "tonal / accent / group-blue": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -29,17 +28,16 @@
       "semantic/dark": "enabled",
       "components/button": "enabled",
       "components/avatar": "enabled",
-      "tonal / accent / blue": "enabled",
       "tonal / signal / green": "enabled",
-      "tonal / accent / group-blue": "disabled",
       "tonal / navigational / group-blue": "disabled",
       "tonal / navigational / blue": "enabled",
       "core / color": "source",
       "core / sizings": "source",
       "core / spacings": "source",
       "core / typographies": "source",
+      "tonal / accent / blue": "enabled",
       "tonal / accent / green": "disabled",
-      "semantic/dark_Copy": "disabled"
+      "tonal / accent / group-blue": "disabled"
     },
     "$figmaStyleReferences": {}
   }

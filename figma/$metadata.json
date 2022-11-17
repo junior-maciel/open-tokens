@@ -13,7 +13,6 @@
     "semantic/light",
     "semantic/dark",
     "components/button",
-    "components/avatar",
-    "semantic/dark_Copy"
+    "components/avatar"
   ]
 }

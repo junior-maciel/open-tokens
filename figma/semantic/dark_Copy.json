@@ -1,8 +1,0 @@
-{
-  "painel": {
-    "background": {
-      "value": "{color.primary.default}",
-      "type": "color"
-    }
-  }
-}

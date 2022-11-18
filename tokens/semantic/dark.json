@@ -1,0 +1,12 @@
+{
+  "painel": {
+    "background": {
+      "value": "{color.primary.default}",
+      "type": "color"
+    },
+    "foreground": {
+      "value": "{global.neutral.black}",
+      "type": "color"
+    }
+  }
+}

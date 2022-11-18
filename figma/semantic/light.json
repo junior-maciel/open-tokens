@@ -3,6 +3,10 @@
     "background": {
       "value": "{color.primary.default}",
       "type": "color"
+    },
+    "foreground": {
+      "value": "{global.aqua.05}",
+      "type": "color"
     }
   }
 }

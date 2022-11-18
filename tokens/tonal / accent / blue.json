@@ -1,0 +1,18 @@
+{
+  "color": {
+    "primary": {
+      "default": {
+        "value": "{global.blue.45}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{global.blue.40}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{global.blue.50}",
+        "type": "color"
+      }
+    }
+  }
+}

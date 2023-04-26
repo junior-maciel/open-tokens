@@ -4,10 +4,9 @@
     "name": "UltraLight - Green",
     "selectedTokenSets": {
       "components/button": "enabled",
-      "foundation / colors": "disabled",
-      "style / color / blue": "disabled",
-      "style / color / gray": "disabled",
-      "style / color / group-blue": "disabled"
+      "foundation / emc-colors": "disabled",
+      "foundation / fill-colors": "disabled",
+      "style / accent / green": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -16,10 +15,9 @@
     "name": "VeryDark - Blue",
     "selectedTokenSets": {
       "components/button": "enabled",
-      "foundation / colors": "disabled",
-      "style / color / blue": "disabled",
-      "style / color / gray": "disabled",
-      "style / color / group-blue": "disabled"
+      "foundation / emc-colors": "disabled",
+      "foundation / fill-colors": "disabled",
+      "style / accent / green": "disabled"
     },
     "$figmaStyleReferences": {}
   }

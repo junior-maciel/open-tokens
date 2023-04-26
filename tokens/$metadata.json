@@ -1,18 +1,9 @@
 {
   "tokenSetOrder": [
-    "core / color",
-    "core / sizings",
-    "core / spacings",
-    "core / typographies",
-    "tonal / navigational / blue",
-    "tonal / navigational / group-blue",
-    "tonal / accent / blue",
-    "tonal / accent / green",
-    "tonal / accent / group-blue",
-    "tonal / signal / green",
-    "semantic/light",
-    "semantic/dark",
-    "components/button",
-    "components/avatar"
+    "foundation / colors",
+    "style / color / blue",
+    "style / color / gray",
+    "style / color / group-blue",
+    "components/button"
   ]
 }

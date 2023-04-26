@@ -1,0 +1,9 @@
+{
+  "color": {
+    "05": {
+      "value": "{global.group-blue.05}",
+      "type": "color",
+      "description": "global.group-blue.05"
+    }
+  }
+}

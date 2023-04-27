@@ -1,5 +1,23 @@
 {
   "devDependencies": {
     "husky": "^8.0.3"
-  }
+  },
+  "name": "open-tokens",
+  "description": "Repository for studying design tokens.",
+  "version": "1.0.0",
+  "main": "commitlint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junior-maciel/open-tokens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junior-maciel/open-tokens/issues"
+  },
+  "homepage": "https://github.com/junior-maciel/open-tokens#readme"
 }

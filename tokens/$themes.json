@@ -3,10 +3,7 @@
     "id": "24db8c37b22e3f4ca22f486fd9863def2f6891a5",
     "name": "UltraLight - Green",
     "selectedTokenSets": {
-      "components/button": "enabled",
-      "foundation / emc-colors": "disabled",
-      "foundation / fill-colors": "disabled",
-      "style / accent / green": "disabled"
+      "components/button": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -14,11 +11,32 @@
     "id": "46f6438cb7638fae737db55da0465b1efa317a01",
     "name": "VeryDark - Blue",
     "selectedTokenSets": {
-      "components/button": "enabled",
-      "foundation / emc-colors": "disabled",
-      "foundation / fill-colors": "disabled",
-      "style / accent / green": "disabled"
+      "components/button": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "1163248c83489ac1eece846ddd0f2ee31609e759",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation / emc-colors": "source",
+      "style / color / blue": "enabled",
+      "style / accent / green": "enabled",
+      "components/button": "enabled"
+    },
+    "group": "Mobile"
+  },
+  {
+    "id": "42cac56d4a11d7e4d99139154529aedd05e80942",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation / emc-colors": "source",
+      "style / color / gray": "enabled",
+      "style / accent / green": "enabled",
+      "components/button": "enabled"
+    },
+    "group": "Desktop"
   }
 ]

@@ -3,9 +3,9 @@
     "foundation / emc-colors",
     "foundation / fill-colors",
     "style / color / blue",
-    "style / accent / green",
     "style / color / gray",
     "style / color / group-blue",
+    "style / accent / green",
     "components/button"
   ]
 }

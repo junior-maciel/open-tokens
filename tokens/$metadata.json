@@ -1,11 +1,20 @@
 {
   "tokenSetOrder": [
-    "foundation / emc-colors",
-    "foundation / fill-colors",
-    "style / color / blue",
-    "style / color / gray",
-    "style / color / group-blue",
-    "style / accent / green",
-    "components/button"
+    "foundation / emrcm",
+    "foundation / dls",
+    "foundation / filament",
+    "theme/light",
+    "theme/dark",
+    "theme/brand-color/blue",
+    "theme/brand-color/green",
+    "theme/brand-color/grou-blue",
+    "theme/brand-color/pink",
+    "theme/localization/global",
+    "theme/localization/japan",
+    "theme/density/dense",
+    "theme/density/regular",
+    "theme/density/touch",
+    "components/button",
+    "components/dialog"
   ]
 }

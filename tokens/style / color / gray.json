@@ -1,9 +1,0 @@
-{
-  "color": {
-    "05": {
-      "value": "{global.gray.05}",
-      "type": "color",
-      "description": "global.gray.05"
-    }
-  }
-}

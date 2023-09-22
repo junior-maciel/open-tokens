@@ -11,9 +11,9 @@
     "theme/brand-color/pink",
     "theme/localization/global",
     "theme/localization/japan",
-    "theme/density/dense",
-    "theme/density/regular",
-    "theme/density/touch",
+    "theme/density/compact",
+    "theme/density/regular-default",
+    "theme/density/large-touch",
     "components/button",
     "components/dialog"
   ]

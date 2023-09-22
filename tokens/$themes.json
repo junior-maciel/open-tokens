@@ -1,1 +1,169 @@
-[]
+[
+  {
+    "id": "7f8cd52bd55a2159cf01c5ab588f9d7cf70a6fdf",
+    "name": "emr-cm",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation / emrcm": "source",
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Foundation"
+  },
+  {
+    "id": "1561a08fb0b26e25505345bf627756aecef3f682",
+    "name": "dls",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation / dls": "source",
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Foundation"
+  },
+  {
+    "id": "71aaf21f57ca956d92e32d962f45e6362af3b3ca",
+    "name": "filament",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation / filament": "source",
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Foundation"
+  },
+  {
+    "id": "5e96b952fab7500410ad8365141f4b46fad1b8bb",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "theme/light": "source",
+      "components/button": "enabled",
+      "components/dialog": "enabled",
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "2a11d79c21bdd8adf4ff422e9350611031b976c5",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "theme/dark": "source",
+      "components/button": "enabled",
+      "components/dialog": "enabled",
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "ac18d2622f4251d0b097c127fad75e7b7d954474",
+    "name": "blue",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "theme/brand-color/blue": "enabled",
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "3aa49618fc6c12bdd3e1182492cd57633f552d1e",
+    "name": "green",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "theme/brand-color/green": "enabled",
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "1db401812a3a3651830b1e5b1ca6789d7a635ca7",
+    "name": "group-blue",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "theme/brand-color/grou-blue": "enabled",
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "d7ce9c651c687eb06933a86a0915692ab70f4271",
+    "name": "pink",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "theme/brand-color/pink": "enabled",
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "df28eb50c7eaea3fadc00c764347f929cd0a6378",
+    "name": "global",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "theme/localization/global": "enabled",
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "5d4339a38183a34d67e2bafa3c4c7af9c91c89ce",
+    "name": "japan",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "theme/localization/japan": "enabled",
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "f968f475fdafacfb587c974b380e6cc8591fa0f4",
+    "name": "compact",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "theme/density/compact": "enabled",
+      "theme/density/large-touch": "disabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Density"
+  },
+  {
+    "id": "303ed9855985e557fe7ca61b08dca1394c48c8f7",
+    "name": "default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "theme/density/regular-default": "enabled"
+    },
+    "group": "Density"
+  },
+  {
+    "id": "35e8899d55c780ae38ac8e059a63e63a88b81ba4",
+    "name": "large-touch",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "theme/density/compact": "disabled",
+      "theme/density/large-touch": "enabled",
+      "theme/density/regular-default": "disabled"
+    },
+    "group": "Density"
+  }
+]

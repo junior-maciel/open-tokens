@@ -1,1 +1,90 @@
-{}
+{
+  "brand": {
+    "color": {
+      "primary": {
+        "normal": {
+          "value": "{color.blue.seven}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.blue.eight}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.blue.nine}",
+          "type": "color"
+        }
+      },
+      "on-primary": {
+        "normal": {
+          "value": "{color.blue.none}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.blue.none}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.blue.none}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "normal": {
+          "value": "{color.blue.three}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.blue.four}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.blue.five}",
+          "type": "color"
+        }
+      },
+      "on-secondary": {
+        "normal": {
+          "value": "{color.blue.fourteen}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.blue.fourteen}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.blue.fourteen}",
+          "type": "color"
+        }
+      },
+      "selected": {
+        "normal": {
+          "value": "{color.blue.two}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.blue.two}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.blue.two}",
+          "type": "color"
+        }
+      },
+      "on-selected": {
+        "normal": {
+          "value": "{color.blue.fifteen}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.blue.fifteen}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.blue.fifteen}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

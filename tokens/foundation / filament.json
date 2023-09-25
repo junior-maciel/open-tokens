@@ -968,269 +968,271 @@
       }
     }
   },
-  "color": {
-    "blue": {
-      "one": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
+  "ref": {
+    "color": {
+      "blue": {
+        "one": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "two": {
+          "value": "{fil.global.blue.50}",
+          "type": "color"
+        },
+        "three": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "four": {
+          "value": "{fil.global.blue.94}",
+          "type": "color"
+        },
+        "five": {
+          "value": "{fil.global.blue.94}",
+          "type": "color"
+        },
+        "six": {
+          "value": "{fil.global.blue.54}",
+          "type": "color"
+        },
+        "seven": {
+          "value": "{fil.global.blue.50}",
+          "type": "color"
+        },
+        "eight": {
+          "value": "{fil.global.blue.46}",
+          "type": "color"
+        },
+        "nine": {
+          "value": "{fil.global.blue.42}",
+          "type": "color"
+        },
+        "ten": {
+          "value": "{fil.global.blue.38}",
+          "type": "color"
+        },
+        "eleven": {
+          "value": "{fil.global.blue.30}",
+          "type": "color"
+        },
+        "twelve": {
+          "value": "{fil.global.blue.26}",
+          "type": "color"
+        },
+        "thirteen": {
+          "value": "{fil.global.blue.22}",
+          "type": "color"
+        },
+        "fourteen": {
+          "value": "{fil.global.blue.42}",
+          "type": "color"
+        },
+        "fifteen": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "none": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        }
       },
-      "two": {
-        "value": "{fil.global.blue.50}",
-        "type": "color"
+      "green": {
+        "one": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "two": {
+          "value": "{fil.global.green.50}",
+          "type": "color"
+        },
+        "three": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "four": {
+          "value": "{fil.global.green.94}",
+          "type": "color"
+        },
+        "five": {
+          "value": "{fil.global.green.94}",
+          "type": "color"
+        },
+        "six": {
+          "value": "{fil.global.green.54}",
+          "type": "color"
+        },
+        "seven": {
+          "value": "{fil.global.green.50}",
+          "type": "color"
+        },
+        "eight": {
+          "value": "{fil.global.green.50}",
+          "type": "color"
+        },
+        "nine": {
+          "value": "{fil.global.green.42}",
+          "type": "color"
+        },
+        "ten": {
+          "value": "{fil.global.green.38}",
+          "type": "color"
+        },
+        "eleven": {
+          "value": "{fil.global.green.30}",
+          "type": "color"
+        },
+        "twelve": {
+          "value": "{fil.global.green.26}",
+          "type": "color"
+        },
+        "thirteen": {
+          "value": "{fil.global.green.22}",
+          "type": "color"
+        },
+        "fourteen": {
+          "value": "{fil.global.green.42}",
+          "type": "color"
+        },
+        "fifteen": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "none": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        }
       },
-      "three": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
+      "group-blue": {
+        "one": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "two": {
+          "value": "{fil.global.blue.50}",
+          "type": "color"
+        },
+        "three": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "four": {
+          "value": "{fil.global.blue.94}",
+          "type": "color"
+        },
+        "five": {
+          "value": "{fil.global.blue.94}",
+          "type": "color"
+        },
+        "six": {
+          "value": "{fil.global.blue.54}",
+          "type": "color"
+        },
+        "seven": {
+          "value": "{fil.global.blue.50}",
+          "type": "color"
+        },
+        "eight": {
+          "value": "{fil.global.blue.46}",
+          "type": "color"
+        },
+        "nine": {
+          "value": "{fil.global.blue.42}",
+          "type": "color"
+        },
+        "ten": {
+          "value": "{fil.global.blue.38}",
+          "type": "color"
+        },
+        "eleven": {
+          "value": "{fil.global.blue.30}",
+          "type": "color"
+        },
+        "twelve": {
+          "value": "{fil.global.blue.26}",
+          "type": "color"
+        },
+        "thirteen": {
+          "value": "{fil.global.blue.22}",
+          "type": "color"
+        },
+        "fourteen": {
+          "value": "{fil.global.blue.42}",
+          "type": "color"
+        },
+        "fifteen": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "none": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        }
       },
-      "four": {
-        "value": "{fil.global.blue.94}",
-        "type": "color"
-      },
-      "five": {
-        "value": "{fil.global.blue.94}",
-        "type": "color"
-      },
-      "six": {
-        "value": "{fil.global.blue.54}",
-        "type": "color"
-      },
-      "seven": {
-        "value": "{fil.global.blue.50}",
-        "type": "color"
-      },
-      "eight": {
-        "value": "{fil.global.blue.46}",
-        "type": "color"
-      },
-      "nine": {
-        "value": "{fil.global.blue.42}",
-        "type": "color"
-      },
-      "ten": {
-        "value": "{fil.global.blue.38}",
-        "type": "color"
-      },
-      "eleven": {
-        "value": "{fil.global.blue.30}",
-        "type": "color"
-      },
-      "twelve": {
-        "value": "{fil.global.blue.26}",
-        "type": "color"
-      },
-      "thirteen": {
-        "value": "{fil.global.blue.22}",
-        "type": "color"
-      },
-      "fourteen": {
-        "value": "{fil.global.blue.42}",
-        "type": "color"
-      },
-      "fifteen": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      },
-      "none": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      }
-    },
-    "green": {
-      "one": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      },
-      "two": {
-        "value": "{fil.global.green.50}",
-        "type": "color"
-      },
-      "three": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      },
-      "four": {
-        "value": "{fil.global.green.94}",
-        "type": "color"
-      },
-      "five": {
-        "value": "{fil.global.green.94}",
-        "type": "color"
-      },
-      "six": {
-        "value": "{fil.global.green.54}",
-        "type": "color"
-      },
-      "seven": {
-        "value": "{fil.global.green.50}",
-        "type": "color"
-      },
-      "eight": {
-        "value": "{fil.global.green.50}",
-        "type": "color"
-      },
-      "nine": {
-        "value": "{fil.global.green.42}",
-        "type": "color"
-      },
-      "ten": {
-        "value": "{fil.global.green.38}",
-        "type": "color"
-      },
-      "eleven": {
-        "value": "{fil.global.green.30}",
-        "type": "color"
-      },
-      "twelve": {
-        "value": "{fil.global.green.26}",
-        "type": "color"
-      },
-      "thirteen": {
-        "value": "{fil.global.green.22}",
-        "type": "color"
-      },
-      "fourteen": {
-        "value": "{fil.global.green.42}",
-        "type": "color"
-      },
-      "fifteen": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      },
-      "none": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      }
-    },
-    "group-blue": {
-      "one": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      },
-      "two": {
-        "value": "{fil.global.blue.50}",
-        "type": "color"
-      },
-      "three": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      },
-      "four": {
-        "value": "{fil.global.blue.94}",
-        "type": "color"
-      },
-      "five": {
-        "value": "{fil.global.blue.94}",
-        "type": "color"
-      },
-      "six": {
-        "value": "{fil.global.blue.54}",
-        "type": "color"
-      },
-      "seven": {
-        "value": "{fil.global.blue.50}",
-        "type": "color"
-      },
-      "eight": {
-        "value": "{fil.global.blue.46}",
-        "type": "color"
-      },
-      "nine": {
-        "value": "{fil.global.blue.42}",
-        "type": "color"
-      },
-      "ten": {
-        "value": "{fil.global.blue.38}",
-        "type": "color"
-      },
-      "eleven": {
-        "value": "{fil.global.blue.30}",
-        "type": "color"
-      },
-      "twelve": {
-        "value": "{fil.global.blue.26}",
-        "type": "color"
-      },
-      "thirteen": {
-        "value": "{fil.global.blue.22}",
-        "type": "color"
-      },
-      "fourteen": {
-        "value": "{fil.global.blue.42}",
-        "type": "color"
-      },
-      "fifteen": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      },
-      "none": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      }
-    },
-    "pink": {
-      "one": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      },
-      "two": {
-        "value": "{emr.global.pink.10}",
-        "type": "color"
-      },
-      "three": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      },
-      "four": {
-        "value": "{emr.global.pink.20}",
-        "type": "color"
-      },
-      "five": {
-        "value": "{emr.global.pink.25}",
-        "type": "color"
-      },
-      "six": {
-        "value": "{emr.global.pink.30}",
-        "type": "color"
-      },
-      "seven": {
-        "value": "{emr.global.pink.45}",
-        "type": "color"
-      },
-      "eight": {
-        "value": "{emr.global.pink.50}",
-        "type": "color"
-      },
-      "nine": {
-        "value": "{emr.global.pink.55}",
-        "type": "color"
-      },
-      "ten": {
-        "value": "{emr.global.pink.60}",
-        "type": "color"
-      },
-      "eleven": {
-        "value": "{emr.global.pink.70}",
-        "type": "color"
-      },
-      "twelve": {
-        "value": "{emr.global.pink.75}",
-        "type": "color"
-      },
-      "thirteen": {
-        "value": "{emr.global.pink.80}",
-        "type": "color"
-      },
-      "fourteen": {
-        "value": "{emr.global.pink.85}",
-        "type": "color"
-      },
-      "fifteen": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
-      },
-      "none": {
-        "value": "{fil.global.neutral.white}",
-        "type": "color"
+      "pink": {
+        "one": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "two": {
+          "value": "{fil.global.magenta.50}",
+          "type": "color"
+        },
+        "three": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "four": {
+          "value": "{fil.global.magenta.94}",
+          "type": "color"
+        },
+        "five": {
+          "value": "{fil.global.magenta.94}",
+          "type": "color"
+        },
+        "six": {
+          "value": "{fil.global.magenta.54}",
+          "type": "color"
+        },
+        "seven": {
+          "value": "{fil.global.magenta.50}",
+          "type": "color"
+        },
+        "eight": {
+          "value": "{fil.global.magenta.46}",
+          "type": "color"
+        },
+        "nine": {
+          "value": "{fil.global.magenta.42}",
+          "type": "color"
+        },
+        "ten": {
+          "value": "{fil.global.magenta.38}",
+          "type": "color"
+        },
+        "eleven": {
+          "value": "{fil.global.magenta.30}",
+          "type": "color"
+        },
+        "twelve": {
+          "value": "{fil.global.magenta.26}",
+          "type": "color"
+        },
+        "thirteen": {
+          "value": "{fil.global.magenta.22}",
+          "type": "color"
+        },
+        "fourteen": {
+          "value": "{fil.global.magenta.42}",
+          "type": "color"
+        },
+        "fifteen": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        },
+        "none": {
+          "value": "{fil.global.neutral.white}",
+          "type": "color"
+        }
       }
     }
   }

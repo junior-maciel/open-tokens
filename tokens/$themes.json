@@ -4,7 +4,8 @@
     "name": "emr-cm",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "foundation / emrcm": "source"
+      "foundation/core-global": "source",
+      "foundation/colors-emr": "source"
     },
     "group": "Foundation"
   },
@@ -13,7 +14,8 @@
     "name": "dls",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "foundation / dls": "source"
+      "foundation/core-global": "source",
+      "foundation/color-dls": "source"
     },
     "group": "Foundation"
   },
@@ -22,7 +24,8 @@
     "name": "filament",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "foundation / filament": "source"
+      "foundation/core-global": "source",
+      "foundation/colors-filament": "source"
     },
     "group": "Foundation"
   },
@@ -31,65 +34,178 @@
     "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/light": "source",
+      "components/button": "enabled",
+      "components/dialog": "enabled",
+      "mode/light": "source"
+    },
+    "group": "Mode"
+  },
+  {
+    "id": "9cbb9ac5c1097ed9f939773a54dd1e7512b8977a",
+    "name": "bright",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "mode/bright": "source",
       "components/button": "enabled",
       "components/dialog": "enabled"
     },
-    "group": "Theme"
+    "group": "Mode"
   },
   {
     "id": "2a11d79c21bdd8adf4ff422e9350611031b976c5",
     "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/dark": "source",
       "components/button": "enabled",
-      "components/dialog": "enabled"
+      "components/dialog": "enabled",
+      "foundation/core-global": "disabled",
+      "foundation/colors-emr": "disabled",
+      "foundation/color-dls": "disabled",
+      "foundation/colors-filament": "disabled",
+      "brand-color/blue": "disabled",
+      "brand-color/green": "disabled",
+      "brand-color/group-blue": "disabled",
+      "brand-color/pink": "disabled",
+      "contrast/light-high": "disabled",
+      "contrast/dark-high": "disabled",
+      "localization/global": "disabled",
+      "localization/japan": "disabled",
+      "density/compact": "disabled",
+      "density/regular-default": "disabled",
+      "density/large-touch": "disabled",
+      "mode/light": "disabled",
+      "mode/bright": "disabled",
+      "mode/dark": "source"
     },
-    "group": "Theme"
+    "group": "Mode"
   },
   {
     "id": "ac18d2622f4251d0b097c127fad75e7b7d954474",
     "name": "blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/brand-color/blue": "enabled"
+      "foundation/core-global": "disabled",
+      "foundation/colors-emr": "disabled",
+      "foundation/color-dls": "disabled",
+      "foundation/colors-filament": "disabled",
+      "brand-color/blue": "enabled",
+      "brand-color/green": "disabled",
+      "brand-color/group-blue": "disabled",
+      "brand-color/pink": "disabled",
+      "contrast/light-high": "disabled",
+      "contrast/dark-high": "disabled",
+      "localization/global": "disabled",
+      "localization/japan": "disabled",
+      "density/compact": "disabled",
+      "density/regular-default": "disabled",
+      "density/large-touch": "disabled",
+      "mode/light": "disabled",
+      "mode/bright": "disabled",
+      "mode/dark": "disabled"
     },
-    "group": "Brand"
+    "group": "Main Color"
   },
   {
     "id": "3aa49618fc6c12bdd3e1182492cd57633f552d1e",
     "name": "green",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/brand-color/green": "enabled"
+      "foundation/core-global": "disabled",
+      "foundation/colors-emr": "disabled",
+      "foundation/color-dls": "disabled",
+      "foundation/colors-filament": "disabled",
+      "brand-color/blue": "disabled",
+      "brand-color/green": "enabled",
+      "brand-color/group-blue": "disabled",
+      "brand-color/pink": "disabled",
+      "contrast/light-high": "disabled",
+      "contrast/dark-high": "disabled",
+      "localization/global": "disabled",
+      "localization/japan": "disabled",
+      "density/compact": "disabled",
+      "density/regular-default": "disabled",
+      "density/large-touch": "disabled",
+      "mode/light": "disabled",
+      "mode/bright": "disabled",
+      "mode/dark": "disabled"
     },
-    "group": "Brand"
+    "group": "Main Color"
   },
   {
     "id": "1db401812a3a3651830b1e5b1ca6789d7a635ca7",
     "name": "group-blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/brand-color/group-blue": "enabled"
+      "foundation/core-global": "disabled",
+      "foundation/colors-emr": "disabled",
+      "foundation/color-dls": "disabled",
+      "foundation/colors-filament": "disabled",
+      "brand-color/blue": "disabled",
+      "brand-color/green": "disabled",
+      "brand-color/group-blue": "enabled",
+      "brand-color/pink": "disabled",
+      "contrast/light-high": "disabled",
+      "contrast/dark-high": "disabled",
+      "localization/global": "disabled",
+      "localization/japan": "disabled",
+      "density/compact": "disabled",
+      "density/regular-default": "disabled",
+      "density/large-touch": "disabled",
+      "mode/light": "disabled",
+      "mode/bright": "disabled",
+      "mode/dark": "disabled"
     },
-    "group": "Brand"
+    "group": "Main Color"
   },
   {
     "id": "d7ce9c651c687eb06933a86a0915692ab70f4271",
     "name": "pink",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/brand-color/pink": "enabled"
+      "foundation/core-global": "disabled",
+      "foundation/colors-emr": "disabled",
+      "foundation/color-dls": "disabled",
+      "foundation/colors-filament": "disabled",
+      "brand-color/blue": "disabled",
+      "brand-color/green": "disabled",
+      "brand-color/group-blue": "disabled",
+      "brand-color/pink": "enabled",
+      "contrast/light-high": "disabled",
+      "contrast/dark-high": "disabled",
+      "localization/global": "disabled",
+      "localization/japan": "disabled",
+      "density/compact": "disabled",
+      "density/regular-default": "disabled",
+      "density/large-touch": "disabled",
+      "mode/light": "disabled",
+      "mode/bright": "disabled",
+      "mode/dark": "disabled"
     },
-    "group": "Brand"
+    "group": "Main Color"
   },
   {
     "id": "df28eb50c7eaea3fadc00c764347f929cd0a6378",
     "name": "global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/localization/global": "enabled"
+      "foundation/core-global": "disabled",
+      "foundation/colors-emr": "disabled",
+      "foundation/color-dls": "disabled",
+      "foundation/colors-filament": "disabled",
+      "brand-color/blue": "disabled",
+      "brand-color/green": "disabled",
+      "brand-color/group-blue": "disabled",
+      "brand-color/pink": "disabled",
+      "contrast/light-high": "disabled",
+      "contrast/dark-high": "disabled",
+      "localization/global": "enabled",
+      "localization/japan": "disabled",
+      "density/compact": "disabled",
+      "density/regular-default": "disabled",
+      "density/large-touch": "disabled",
+      "mode/light": "disabled",
+      "mode/bright": "disabled",
+      "mode/dark": "disabled"
     },
     "group": "Localization"
   },
@@ -98,7 +214,24 @@
     "name": "japan",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/localization/japan": "enabled"
+      "foundation/core-global": "disabled",
+      "foundation/colors-emr": "disabled",
+      "foundation/color-dls": "disabled",
+      "foundation/colors-filament": "disabled",
+      "brand-color/blue": "disabled",
+      "brand-color/green": "disabled",
+      "brand-color/group-blue": "disabled",
+      "brand-color/pink": "disabled",
+      "contrast/light-high": "disabled",
+      "contrast/dark-high": "disabled",
+      "localization/global": "disabled",
+      "localization/japan": "enabled",
+      "density/compact": "disabled",
+      "density/regular-default": "disabled",
+      "density/large-touch": "disabled",
+      "mode/light": "disabled",
+      "mode/bright": "disabled",
+      "mode/dark": "disabled"
     },
     "group": "Localization"
   },
@@ -107,7 +240,24 @@
     "name": "compact",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/density/compact": "enabled"
+      "foundation/core-global": "disabled",
+      "foundation/colors-emr": "disabled",
+      "foundation/color-dls": "disabled",
+      "foundation/colors-filament": "disabled",
+      "brand-color/blue": "disabled",
+      "brand-color/green": "disabled",
+      "brand-color/group-blue": "disabled",
+      "brand-color/pink": "disabled",
+      "contrast/light-high": "disabled",
+      "contrast/dark-high": "disabled",
+      "localization/global": "disabled",
+      "localization/japan": "disabled",
+      "density/compact": "enabled",
+      "density/regular-default": "disabled",
+      "density/large-touch": "disabled",
+      "mode/light": "disabled",
+      "mode/bright": "disabled",
+      "mode/dark": "disabled"
     },
     "group": "Density"
   },
@@ -116,7 +266,24 @@
     "name": "default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/density/regular-default": "enabled"
+      "foundation/core-global": "disabled",
+      "foundation/colors-emr": "disabled",
+      "foundation/color-dls": "disabled",
+      "foundation/colors-filament": "disabled",
+      "brand-color/blue": "disabled",
+      "brand-color/green": "disabled",
+      "brand-color/group-blue": "disabled",
+      "brand-color/pink": "disabled",
+      "contrast/light-high": "disabled",
+      "contrast/dark-high": "disabled",
+      "localization/global": "disabled",
+      "localization/japan": "disabled",
+      "density/compact": "disabled",
+      "density/regular-default": "enabled",
+      "density/large-touch": "disabled",
+      "mode/light": "disabled",
+      "mode/bright": "disabled",
+      "mode/dark": "disabled"
     },
     "group": "Density"
   },
@@ -125,7 +292,24 @@
     "name": "large-touch",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/density/large-touch": "enabled"
+      "foundation/core-global": "disabled",
+      "foundation/colors-emr": "disabled",
+      "foundation/color-dls": "disabled",
+      "foundation/colors-filament": "disabled",
+      "brand-color/blue": "disabled",
+      "brand-color/green": "disabled",
+      "brand-color/group-blue": "disabled",
+      "brand-color/pink": "disabled",
+      "contrast/light-high": "disabled",
+      "contrast/dark-high": "disabled",
+      "localization/global": "disabled",
+      "localization/japan": "disabled",
+      "density/compact": "disabled",
+      "density/regular-default": "disabled",
+      "density/large-touch": "enabled",
+      "mode/light": "disabled",
+      "mode/bright": "disabled",
+      "mode/dark": "disabled"
     },
     "group": "Density"
   }

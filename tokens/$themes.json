@@ -42,10 +42,7 @@
     "selectedTokenSets": {
       "components/button": "enabled",
       "components/dialog": "enabled",
-      "mode/light": "source",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "mode/light": "source"
     },
     "group": "Mode"
   },
@@ -56,10 +53,7 @@
     "selectedTokenSets": {
       "mode/bright": "source",
       "components/button": "enabled",
-      "components/dialog": "enabled",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "components/dialog": "enabled"
     },
     "group": "Mode"
   },
@@ -70,10 +64,7 @@
     "selectedTokenSets": {
       "components/button": "enabled",
       "components/dialog": "enabled",
-      "mode/dark": "source",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "mode/dark": "source"
     },
     "group": "Mode"
   },
@@ -83,10 +74,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "mode/light": "source",
-      "mode/light-high": "source",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "mode/light-high": "source"
     },
     "group": "Contrast"
   },
@@ -96,10 +84,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "mode/dark": "source",
-      "mode/dark-high": "source",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "mode/dark-high": "source"
     },
     "group": "Contrast"
   },
@@ -108,10 +93,7 @@
     "name": "blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/blue": "enabled",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "brand-color/blue": "enabled"
     },
     "group": "Main Color"
   },
@@ -120,10 +102,7 @@
     "name": "green",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/green": "enabled",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "brand-color/green": "enabled"
     },
     "group": "Main Color"
   },
@@ -132,10 +111,7 @@
     "name": "group-blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/group-blue": "enabled",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "brand-color/group-blue": "enabled"
     },
     "group": "Main Color"
   },
@@ -144,10 +120,7 @@
     "name": "pink",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/pink": "enabled",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "brand-color/pink": "enabled"
     },
     "group": "Main Color"
   },
@@ -156,10 +129,7 @@
     "name": "global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/global": "enabled",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "localization/global": "enabled"
     },
     "group": "Localization"
   },
@@ -168,10 +138,7 @@
     "name": "japan",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/japan": "enabled",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "localization/japan": "enabled"
     },
     "group": "Localization"
   },
@@ -180,10 +147,7 @@
     "name": "compact",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/compact": "enabled",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "density/compact": "enabled"
     },
     "group": "Density"
   },
@@ -192,10 +156,7 @@
     "name": "default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/regular-default": "enabled",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "density/regular-default": "enabled"
     },
     "group": "Density"
   },
@@ -204,10 +165,7 @@
     "name": "large-touch",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/large-touch": "enabled",
-      "foundation/reference/emr": "disabled",
-      "foundation/reference/dls": "disabled",
-      "foundation/reference/filament": "disabled"
+      "density/large-touch": "enabled"
     },
     "group": "Density"
   }

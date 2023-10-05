@@ -3,6 +3,26 @@
     "border-radius": {
       "value": "{border-radius.cta}",
       "type": "borderRadius"
+    },
+    "container": {
+      "background": {
+        "primary": {
+          "normal": {
+            "value": "{theme.color.primary.normal}",
+            "type": "color"
+          }
+        }
+      },
+      "padding": {
+        "top": {
+          "value": "{density.top}",
+          "type": "spacing"
+        },
+        "bottom": {
+          "value": "{density.bottom}",
+          "type": "spacing"
+        }
+      }
     }
   }
 }

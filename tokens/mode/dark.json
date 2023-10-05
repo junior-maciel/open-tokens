@@ -1,1 +1,18 @@
-{}
+{
+  "theme": {
+    "color": {
+      "primary": {
+        "normal": {
+          "value": "{brand.on-dark.color.primary.normal}",
+          "type": "color"
+        }
+      },
+      "on-primary": {
+        "normal": {
+          "value": "{brand.on-dark.color.on-primary.normal}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

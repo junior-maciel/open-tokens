@@ -3,85 +3,57 @@
     "color": {
       "primary": {
         "normal": {
-          "value": "{color.green.seven}",
+          "value": "{color.green.500}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.green.eight}",
+          "value": "{color.green.550}",
           "type": "color"
         },
         "active": {
-          "value": "{color.green.nine}",
+          "value": "{color.green.600}",
           "type": "color"
         }
       },
       "on-primary": {
         "normal": {
-          "value": "{color.green.none}",
+          "value": "{color.green.50}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.green.none}",
+          "value": "{color.green.50}",
           "type": "color"
         },
         "active": {
-          "value": "{color.green.none}",
+          "value": "{color.green.50}",
           "type": "color"
         }
       },
       "secondary": {
         "normal": {
-          "value": "{color.green.three}",
+          "value": "{color.green.150}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.green.four}",
+          "value": "{color.green.200}",
           "type": "color"
         },
         "active": {
-          "value": "{color.green.five}",
+          "value": "{color.green.250}",
           "type": "color"
         }
       },
       "on-secondary": {
         "normal": {
-          "value": "{color.green.fourteen}",
+          "value": "{color.green.900}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.green.fourteen}",
+          "value": "{color.green.900}",
           "type": "color"
         },
         "active": {
-          "value": "{color.green.fourteen}",
-          "type": "color"
-        }
-      },
-      "selected": {
-        "normal": {
-          "value": "{color.green.two}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{color.green.two}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{color.green.two}",
-          "type": "color"
-        }
-      },
-      "on-selected": {
-        "normal": {
-          "value": "{color.green.fifteen}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{color.green.fifteen}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{color.green.fifteen}",
+          "value": "{color.green.900}",
           "type": "color"
         }
       }

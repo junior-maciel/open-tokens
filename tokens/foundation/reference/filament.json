@@ -1,5 +1,83 @@
 {
   "color": {
+    "group-blue": {
+      "50": {
+        "value": "{fil.color.blue.98}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{fil.color.blue.94}",
+        "type": "color"
+      },
+      "150": {
+        "value": "{fil.color.blue.90}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{fil.color.blue.82}",
+        "type": "color"
+      },
+      "250": {
+        "value": "{fil.color.blue.78}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{fil.color.blue.70}",
+        "type": "color"
+      },
+      "350": {
+        "value": "{fil.color.blue.62}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{fil.color.blue.58}",
+        "type": "color"
+      },
+      "450": {
+        "value": "{fil.color.blue.54}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{fil.color.blue.50}",
+        "type": "color"
+      },
+      "550": {
+        "value": "{fil.color.blue.46}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{fil.color.blue.42}",
+        "type": "color"
+      },
+      "650": {
+        "value": "{fil.color.blue.38}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{fil.color.blue.30}",
+        "type": "color"
+      },
+      "750": {
+        "value": "{fil.color.blue.22}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{fil.color.blue.18}",
+        "type": "color"
+      },
+      "850": {
+        "value": "{fil.color.blue.14}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{fil.color.blue.10}",
+        "type": "color"
+      },
+      "950": {
+        "value": "{fil.color.blue.6}",
+        "type": "color"
+      }
+    },
     "blue": {
       "50": {
         "value": "{fil.color.blue.98}",

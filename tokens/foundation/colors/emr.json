@@ -90,7 +90,7 @@
           "description": "gray-05"
         }
       },
-      "groupblue": {
+      "group-blue": {
         "10": {
           "value": "#daf1f7",
           "type": "color"

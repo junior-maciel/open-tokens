@@ -233,6 +233,162 @@
         "value": "{dls.digital.aqua.90}",
         "type": "color"
       }
+    },
+    "green": {
+      "50": {
+        "value": "{dls.digital.green.05}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{dls.digital.green.10}",
+        "type": "color"
+      },
+      "150": {
+        "value": "{dls.digital.green.15}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{dls.digital.green.20}",
+        "type": "color"
+      },
+      "250": {
+        "value": "{dls.digital.green.25}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{dls.digital.green.30}",
+        "type": "color"
+      },
+      "350": {
+        "value": "{dls.digital.green.35}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{dls.digital.green.40}",
+        "type": "color"
+      },
+      "450": {
+        "value": "{dls.digital.green.45}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{dls.digital.green.45}",
+        "type": "color"
+      },
+      "550": {
+        "value": "{dls.digital.green.50}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{dls.digital.green.55}",
+        "type": "color"
+      },
+      "650": {
+        "value": "{dls.digital.green.60}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{dls.digital.green.65}",
+        "type": "color"
+      },
+      "750": {
+        "value": "{dls.digital.green.70}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{dls.digital.green.75}",
+        "type": "color"
+      },
+      "850": {
+        "value": "{dls.digital.green.80}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{dls.digital.green.85}",
+        "type": "color"
+      },
+      "950": {
+        "value": "{dls.digital.green.90}",
+        "type": "color"
+      }
+    },
+    "cool-green": {
+      "50": {
+        "value": "{dls.digital.green.05}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{dls.digital.green.10}",
+        "type": "color"
+      },
+      "150": {
+        "value": "{dls.digital.green.15}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{dls.digital.green.20}",
+        "type": "color"
+      },
+      "250": {
+        "value": "{dls.digital.green.25}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{dls.digital.green.30}",
+        "type": "color"
+      },
+      "350": {
+        "value": "{dls.digital.green.35}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{dls.digital.green.40}",
+        "type": "color"
+      },
+      "450": {
+        "value": "{dls.digital.green.45}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{dls.digital.green.45}",
+        "type": "color"
+      },
+      "550": {
+        "value": "{dls.digital.green.50}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{dls.digital.green.55}",
+        "type": "color"
+      },
+      "650": {
+        "value": "{dls.digital.green.60}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{dls.digital.green.65}",
+        "type": "color"
+      },
+      "750": {
+        "value": "{dls.digital.green.70}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{dls.digital.green.75}",
+        "type": "color"
+      },
+      "850": {
+        "value": "{dls.digital.green.80}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{dls.digital.green.85}",
+        "type": "color"
+      },
+      "950": {
+        "value": "{dls.digital.green.90}",
+        "type": "color"
+      }
     }
   }
 }

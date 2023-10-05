@@ -573,6 +573,10 @@
     "cta": {
       "value": "{border-radius.full}",
       "type": "borderRadius"
+    },
+    "input": {
+      "value": "{border-radius.2}",
+      "type": "borderRadius"
     }
   }
 }

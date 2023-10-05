@@ -1,1 +1,8 @@
-{}
+{
+  "button": {
+    "border-radius": {
+      "value": "{border-radius.cta}",
+      "type": "borderRadius"
+    }
+  }
+}

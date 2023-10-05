@@ -546,5 +546,33 @@
         "type": "color"
       }
     }
+  },
+  "density": {
+    "xsmall": {
+      "value": "{dimension.05}",
+      "type": "spacing"
+    },
+    "small": {
+      "value": "{dimension.1}",
+      "type": "spacing"
+    },
+    "medium": {
+      "value": "{dimension.2}",
+      "type": "spacing"
+    },
+    "large": {
+      "value": "{dimension.3}",
+      "type": "spacing"
+    },
+    "xlarge": {
+      "value": "{dimension.4}",
+      "type": "spacing"
+    }
+  },
+  "border-radius": {
+    "cta": {
+      "value": "{border-radius.2}",
+      "type": "borderRadius"
+    }
   }
 }

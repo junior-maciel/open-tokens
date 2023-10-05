@@ -3,85 +3,85 @@
     "color": {
       "primary": {
         "normal": {
-          "value": "{ref.color.green.seven}",
+          "value": "{color.green.seven}",
           "type": "color"
         },
         "hover": {
-          "value": "{ref.color.green.eight}",
+          "value": "{color.green.eight}",
           "type": "color"
         },
         "active": {
-          "value": "{ref.color.green.nine}",
+          "value": "{color.green.nine}",
           "type": "color"
         }
       },
       "on-primary": {
         "normal": {
-          "value": "{ref.color.green.none}",
+          "value": "{color.green.none}",
           "type": "color"
         },
         "hover": {
-          "value": "{ref.color.green.none}",
+          "value": "{color.green.none}",
           "type": "color"
         },
         "active": {
-          "value": "{ref.color.green.none}",
+          "value": "{color.green.none}",
           "type": "color"
         }
       },
       "secondary": {
         "normal": {
-          "value": "{ref.color.green.three}",
+          "value": "{color.green.three}",
           "type": "color"
         },
         "hover": {
-          "value": "{ref.color.green.four}",
+          "value": "{color.green.four}",
           "type": "color"
         },
         "active": {
-          "value": "{ref.color.green.five}",
+          "value": "{color.green.five}",
           "type": "color"
         }
       },
       "on-secondary": {
         "normal": {
-          "value": "{ref.color.green.fourteen}",
+          "value": "{color.green.fourteen}",
           "type": "color"
         },
         "hover": {
-          "value": "{ref.color.green.fourteen}",
+          "value": "{color.green.fourteen}",
           "type": "color"
         },
         "active": {
-          "value": "{ref.color.green.fourteen}",
+          "value": "{color.green.fourteen}",
           "type": "color"
         }
       },
       "selected": {
         "normal": {
-          "value": "{ref.color.green.two}",
+          "value": "{color.green.two}",
           "type": "color"
         },
         "hover": {
-          "value": "{ref.color.green.two}",
+          "value": "{color.green.two}",
           "type": "color"
         },
         "active": {
-          "value": "{ref.color.green.two}",
+          "value": "{color.green.two}",
           "type": "color"
         }
       },
       "on-selected": {
         "normal": {
-          "value": "{ref.color.green.fifteen}",
+          "value": "{color.green.fifteen}",
           "type": "color"
         },
         "hover": {
-          "value": "{ref.color.green.fifteen}",
+          "value": "{color.green.fifteen}",
           "type": "color"
         },
         "active": {
-          "value": "{ref.color.green.fifteen}",
+          "value": "{color.green.fifteen}",
           "type": "color"
         }
       }

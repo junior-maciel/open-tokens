@@ -1,1 +1,268 @@
-{}
+{
+  "color": {
+    "blue": {
+      "one": {
+        "value": "{emr.digital.blue.05}",
+        "type": "color"
+      },
+      "two": {
+        "value": "{emr.digital.blue.10}",
+        "type": "color"
+      },
+      "three": {
+        "value": "{emr.digital.blue.15}",
+        "type": "color"
+      },
+      "four": {
+        "value": "{emr.digital.blue.20}",
+        "type": "color"
+      },
+      "five": {
+        "value": "{emr.digital.blue.25}",
+        "type": "color"
+      },
+      "six": {
+        "value": "{emr.digital.blue.30}",
+        "type": "color"
+      },
+      "seven": {
+        "value": "{emr.digital.blue.45}",
+        "type": "color"
+      },
+      "eight": {
+        "value": "{emr.digital.blue.50}",
+        "type": "color"
+      },
+      "nine": {
+        "value": "{emr.digital.blue.55}",
+        "type": "color"
+      },
+      "ten": {
+        "value": "{emr.digital.blue.60}",
+        "type": "color"
+      },
+      "eleven": {
+        "value": "{emr.digital.blue.70}",
+        "type": "color"
+      },
+      "twelve": {
+        "value": "{emr.digital.blue.75}",
+        "type": "color"
+      },
+      "thirteen": {
+        "value": "{emr.digital.blue.80}",
+        "type": "color"
+      },
+      "fourteen": {
+        "value": "{emr.digital.blue.85}",
+        "type": "color"
+      },
+      "fifteen": {
+        "value": "{emr.digital.blue.90}",
+        "type": "color"
+      },
+      "none": {
+        "value": "{emr.digital.neutral.white}",
+        "type": "color"
+      }
+    },
+    "green": {
+      "one": {
+        "value": "{emr.digital.green.05}",
+        "type": "color"
+      },
+      "two": {
+        "value": "{emr.digital.green.10}",
+        "type": "color"
+      },
+      "three": {
+        "value": "{emr.digital.green.15}",
+        "type": "color"
+      },
+      "four": {
+        "value": "{emr.digital.green.20}",
+        "type": "color"
+      },
+      "five": {
+        "value": "{emr.digital.green.25}",
+        "type": "color"
+      },
+      "six": {
+        "value": "{emr.digital.green.30}",
+        "type": "color"
+      },
+      "seven": {
+        "value": "{emr.digital.green.45}",
+        "type": "color"
+      },
+      "eight": {
+        "value": "{emr.digital.green.50}",
+        "type": "color"
+      },
+      "nine": {
+        "value": "{emr.digital.green.55}",
+        "type": "color"
+      },
+      "ten": {
+        "value": "{emr.digital.green.60}",
+        "type": "color"
+      },
+      "eleven": {
+        "value": "{emr.digital.green.70}",
+        "type": "color"
+      },
+      "twelve": {
+        "value": "{emr.digital.green.75}",
+        "type": "color"
+      },
+      "thirteen": {
+        "value": "{emr.digital.green.80}",
+        "type": "color"
+      },
+      "fourteen": {
+        "value": "{emr.digital.green.85}",
+        "type": "color"
+      },
+      "fifteen": {
+        "value": "{emr.digital.green.90}",
+        "type": "color"
+      },
+      "none": {
+        "value": "{emr.digital.neutral.white}",
+        "type": "color"
+      }
+    },
+    "group-blue": {
+      "one": {
+        "value": "{emr.digital.groupblue.05}",
+        "type": "color"
+      },
+      "two": {
+        "value": "{emr.digital.groupblue.10}",
+        "type": "color"
+      },
+      "three": {
+        "value": "{emr.digital.groupblue.15}",
+        "type": "color"
+      },
+      "four": {
+        "value": "{emr.digital.groupblue.20}",
+        "type": "color"
+      },
+      "five": {
+        "value": "{emr.digital.groupblue.25}",
+        "type": "color"
+      },
+      "six": {
+        "value": "{emr.digital.groupblue.30}",
+        "type": "color"
+      },
+      "seven": {
+        "value": "{emr.digital.groupblue.45}",
+        "type": "color"
+      },
+      "eight": {
+        "value": "{emr.digital.groupblue.50}",
+        "type": "color"
+      },
+      "nine": {
+        "value": "{emr.digital.groupblue.55}",
+        "type": "color"
+      },
+      "ten": {
+        "value": "{emr.digital.groupblue.60}",
+        "type": "color"
+      },
+      "eleven": {
+        "value": "{emr.digital.groupblue.70}",
+        "type": "color"
+      },
+      "twelve": {
+        "value": "{emr.digital.groupblue.75}",
+        "type": "color"
+      },
+      "thirteen": {
+        "value": "{emr.digital.groupblue.80}",
+        "type": "color"
+      },
+      "fourteen": {
+        "value": "{emr.digital.groupblue.85}",
+        "type": "color"
+      },
+      "fifteen": {
+        "value": "{emr.digital.groupblue.90}",
+        "type": "color"
+      },
+      "none": {
+        "value": "{emr.digital.neutral.white}",
+        "type": "color"
+      }
+    },
+    "pink": {
+      "one": {
+        "value": "{emr.digital.pink.05}",
+        "type": "color"
+      },
+      "two": {
+        "value": "{emr.digital.pink.10}",
+        "type": "color"
+      },
+      "three": {
+        "value": "{emr.digital.pink.15}",
+        "type": "color"
+      },
+      "four": {
+        "value": "{emr.digital.pink.20}",
+        "type": "color"
+      },
+      "five": {
+        "value": "{emr.digital.pink.25}",
+        "type": "color"
+      },
+      "six": {
+        "value": "{emr.digital.pink.30}",
+        "type": "color"
+      },
+      "seven": {
+        "value": "{emr.digital.pink.45}",
+        "type": "color"
+      },
+      "eight": {
+        "value": "{emr.digital.pink.50}",
+        "type": "color"
+      },
+      "nine": {
+        "value": "{emr.digital.pink.55}",
+        "type": "color"
+      },
+      "ten": {
+        "value": "{emr.digital.pink.60}",
+        "type": "color"
+      },
+      "eleven": {
+        "value": "{emr.digital.pink.70}",
+        "type": "color"
+      },
+      "twelve": {
+        "value": "{emr.digital.pink.75}",
+        "type": "color"
+      },
+      "thirteen": {
+        "value": "{emr.digital.pink.80}",
+        "type": "color"
+      },
+      "fourteen": {
+        "value": "{emr.digital.pink.85}",
+        "type": "color"
+      },
+      "fifteen": {
+        "value": "{emr.digital.pink.90}",
+        "type": "color"
+      },
+      "none": {
+        "value": "{emr.digital.neutral.white}",
+        "type": "color"
+      }
+    }
+  }
+}

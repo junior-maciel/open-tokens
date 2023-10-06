@@ -5,11 +5,55 @@
         "normal": {
           "value": "{brand.on-light.color.primary.normal}",
           "type": "color"
+        },
+        "hover": {
+          "value": "{brand.on-light.color.primary.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brand.on-light.color.primary.active}",
+          "type": "color"
         }
       },
       "on-primary": {
         "normal": {
           "value": "{brand.on-light.color.on-primary.active}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brand.on-light.color.on-primary.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brand.on-light.color.on-primary.active}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "normal": {
+          "value": "{brand.on-light.color.secondary.normal}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brand.on-light.color.secondary.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brand.on-light.color.secondary.active}",
+          "type": "color"
+        }
+      },
+      "on-secondary": {
+        "normal": {
+          "value": "{brand.on-light.color.on-secondary.normal}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brand.on-light.color.on-secondary.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brand.on-light.color.on-secondary.active}",
           "type": "color"
         }
       }

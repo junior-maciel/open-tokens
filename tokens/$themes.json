@@ -89,6 +89,15 @@
     "group": "Contrast"
   },
   {
+    "id": "1db401812a3a3651830b1e5b1ca6789d7a635ca7",
+    "name": "group-blue",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand-color/group-blue": "enabled"
+    },
+    "group": "Main Color"
+  },
+  {
     "id": "ac18d2622f4251d0b097c127fad75e7b7d954474",
     "name": "blue",
     "$figmaStyleReferences": {},
@@ -103,15 +112,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand-color/green": "enabled"
-    },
-    "group": "Main Color"
-  },
-  {
-    "id": "1db401812a3a3651830b1e5b1ca6789d7a635ca7",
-    "name": "group-blue",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand-color/group-blue": "enabled"
     },
     "group": "Main Color"
   },

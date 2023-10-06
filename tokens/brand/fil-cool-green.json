@@ -1,0 +1,124 @@
+{
+  "brand": {
+    "on-light": {
+      "color": {
+        "primary": {
+          "normal": {
+            "value": "{color.cool-green.500}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.cool-green.550}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.cool-green.600}",
+            "type": "color"
+          }
+        },
+        "on-primary": {
+          "normal": {
+            "value": "{color.cool-green.50}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.cool-green.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.cool-green.50}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "normal": {
+            "value": "{color.cool-green.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.cool-green.150}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.cool-green.200}",
+            "type": "color"
+          }
+        },
+        "on-secondary": {
+          "normal": {
+            "value": "{color.cool-green.950}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.cool-green.950}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.cool-green.950}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "on-dark": {
+      "color": {
+        "primary": {
+          "normal": {
+            "value": "{color.cool-green.350}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.cool-green.300}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.cool-green.250}",
+            "type": "color"
+          }
+        },
+        "on-primary": {
+          "normal": {
+            "value": "{color.cool-green.950}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.cool-green.950}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.cool-green.950}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "normal": {
+            "value": "{color.cool-green.850}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.cool-green.800}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.cool-green.750}",
+            "type": "color"
+          }
+        },
+        "on-secondary": {
+          "normal": {
+            "value": "{color.cool-green.50}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.cool-green.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.cool-green.50}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

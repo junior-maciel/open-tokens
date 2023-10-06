@@ -4,57 +4,57 @@
       "color": {
         "primary": {
           "normal": {
-            "value": "{color.group-blue.500}",
+            "value": "{color.green.500}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.550}",
+            "value": "{color.green.550}",
             "type": "color"
           },
           "active": {
-            "value": "{color.group-blue.600}",
+            "value": "{color.green.600}",
             "type": "color"
           }
         },
         "on-primary": {
           "normal": {
-            "value": "{color.group-blue.50}",
+            "value": "{color.green.50}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.50}",
+            "value": "{color.green.50}",
             "type": "color"
           },
           "active": {
-            "value": "{color.group-blue.50}",
+            "value": "{color.green.50}",
             "type": "color"
           }
         },
         "secondary": {
           "normal": {
-            "value": "{color.group-blue.150}",
+            "value": "{color.green.100}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.200}",
+            "value": "{color.green.150}",
             "type": "color"
           },
           "active": {
-            "value": "{color.group-blue.250}",
+            "value": "{color.green.200}",
             "type": "color"
           }
         },
         "on-secondary": {
           "normal": {
-            "value": "{color.group-blue.950}",
+            "value": "{color.green.950}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.950}",
+            "value": "{color.green.950}",
             "type": "color"
           },
           "active": {
-            "value": "{color.group-blue.950}",
+            "value": "{color.green.950}",
             "type": "color"
           }
         }
@@ -64,57 +64,57 @@
       "color": {
         "primary": {
           "normal": {
-            "value": "{color.group-blue.350}",
+            "value": "{color.green.350}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.300}",
+            "value": "{color.green.300}",
             "type": "color"
           },
           "active": {
-            "value": "{color.group-blue.250}",
+            "value": "{color.green.250}",
             "type": "color"
           }
         },
         "on-primary": {
           "normal": {
-            "value": "{color.group-blue.950}",
+            "value": "{color.green.950}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.950}",
+            "value": "{color.green.950}",
             "type": "color"
           },
           "active": {
-            "value": "{color.group-blue.950}",
+            "value": "{color.green.950}",
             "type": "color"
           }
         },
         "secondary": {
           "normal": {
-            "value": "{color.group-blue.850}",
+            "value": "{color.green.850}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.800}",
+            "value": "{color.green.800}",
             "type": "color"
           },
           "active": {
-            "value": "{color.group-blue.750}",
+            "value": "{color.green.750}",
             "type": "color"
           }
         },
         "on-secondary": {
           "normal": {
-            "value": "{color.group-blue.50}",
+            "value": "{color.green.50}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.50}",
+            "value": "{color.green.50}",
             "type": "color"
           },
           "active": {
-            "value": "{color.group-blue.50}",
+            "value": "{color.green.50}",
             "type": "color"
           }
         }

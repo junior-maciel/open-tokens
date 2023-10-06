@@ -90,39 +90,39 @@
   },
   {
     "id": "1db401812a3a3651830b1e5b1ca6789d7a635ca7",
-    "name": "group-blue",
+    "name": "dls-group-blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/group-blue": "enabled"
+      "brand/dls-group-blue": "enabled"
     },
-    "group": "Main Color"
+    "group": "Brand"
   },
   {
     "id": "ac18d2622f4251d0b097c127fad75e7b7d954474",
     "name": "blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/blue": "enabled"
+      "brand/blue": "enabled"
     },
-    "group": "Main Color"
+    "group": "Brand"
   },
   {
     "id": "3aa49618fc6c12bdd3e1182492cd57633f552d1e",
     "name": "green",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/green": "enabled"
+      "brand/green": "enabled"
     },
-    "group": "Main Color"
+    "group": "Brand"
   },
   {
     "id": "d7ce9c651c687eb06933a86a0915692ab70f4271",
     "name": "orange",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/orange": "enabled"
+      "brand/orange": "enabled"
     },
-    "group": "Main Color"
+    "group": "Brand"
   },
   {
     "id": "df28eb50c7eaea3fadc00c764347f929cd0a6378",

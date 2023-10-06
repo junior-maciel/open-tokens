@@ -578,5 +578,19 @@
       "value": "{border-radius.2}",
       "type": "borderRadius"
     }
+  },
+  "background": {
+    "content": {
+      "primary": {
+        "on-dark": {
+          "value": "{emr.digital.gray.85}",
+          "type": "color"
+        },
+        "on-light": {
+          "value": "{emr.digital.neutral.white}",
+          "type": "color"
+        }
+      }
+    }
   }
 }

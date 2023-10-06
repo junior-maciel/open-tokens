@@ -57,6 +57,14 @@
           "type": "color"
         }
       }
+    },
+    "content": {
+      "background": {
+        "primary": {
+          "value": "{background.content.primary.on-light}",
+          "type": "color"
+        }
+      }
     }
   }
 }

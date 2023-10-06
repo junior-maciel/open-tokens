@@ -10,6 +10,28 @@
           "normal": {
             "value": "{theme.color.primary.normal}",
             "type": "color"
+          },
+          "hover": {
+            "value": "{theme.color.primary.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{theme.color.primary.active}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "normal": {
+            "value": "{theme.color.secondary.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{theme.color.secondary.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{theme.color.secondary.active}",
+            "type": "color"
           }
         }
       },
@@ -21,6 +43,38 @@
         "bottom": {
           "value": "{density.bottom}",
           "type": "spacing"
+        }
+      }
+    },
+    "label": {
+      "color": {
+        "on-primary": {
+          "normal": {
+            "value": "{theme.color.on-primary.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{theme.color.on-primary.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{theme.color.on-primary.active}",
+            "type": "color"
+          }
+        },
+        "on-secondary": {
+          "normal": {
+            "value": "{theme.color.on-secondary.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{theme.color.on-secondary.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{theme.color.on-secondary.active}",
+            "type": "color"
+          }
         }
       }
     }

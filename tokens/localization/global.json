@@ -72,6 +72,20 @@
               "value": "{alert.global.on-light.notice.active}",
               "type": "color"
             }
+          },
+          "on-notice": {
+            "normal": {
+              "value": "{alert.global.on-light.on-notice.normal}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alert.global.on-light.on-notice.hover}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{alert.global.on-light.on-notice.active}",
+              "type": "color"
+            }
           }
         },
         "on-dark": {
@@ -142,6 +156,20 @@
             },
             "active": {
               "value": "{alert.global.on-dark.notice.active}",
+              "type": "color"
+            }
+          },
+          "on-notice": {
+            "normal": {
+              "value": "{alert.global.on-dark.on-notice.normal}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{alert.global.on-dark.on-notice.hover}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{alert.global.on-dark.on-notice.active}",
               "type": "color"
             }
           }

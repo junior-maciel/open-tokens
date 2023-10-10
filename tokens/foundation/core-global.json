@@ -761,5 +761,19 @@
         "type": "color"
       }
     }
+  },
+  "font-family": {
+    "sans": {
+      "value": "CentraleSans",
+      "type": "fontFamilies"
+    },
+    "condensed": {
+      "value": "CentraleSansCnd",
+      "type": "fontFamilies"
+    },
+    "next": {
+      "value": "Neue Frutiger World",
+      "type": "fontFamilies"
+    }
   }
 }

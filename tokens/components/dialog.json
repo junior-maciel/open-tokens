@@ -1,1 +1,50 @@
-{}
+{
+  "dialog": {
+    "header": {
+      "background": {
+        "safety": {
+          "value": "{theme.alert.color.notice.normal}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{theme.alert.color.caution.normal}",
+          "type": "color"
+        }
+      },
+      "color": {
+        "title": {
+          "on-safety": {
+            "value": "{theme.alert.color.on-notice.normal}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "on-safety": {
+            "value": "{theme.alert.color.on-notice.normal}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "container": {
+      "background": {
+        "default": {
+          "value": "{theme.content.background.tertiary}",
+          "type": "color"
+        }
+      }
+    },
+    "content": {
+      "color": {
+        "heading": {
+          "value": "{theme.text.primary}",
+          "type": "color"
+        },
+        "description": {
+          "value": "{theme.text.secondary}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -4,15 +4,15 @@
       "color": {
         "primary": {
           "normal": {
-            "value": "{color.blue.500}",
-            "type": "color"
-          },
-          "hover": {
             "value": "{color.blue.550}",
             "type": "color"
           },
-          "active": {
+          "hover": {
             "value": "{color.blue.600}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.blue.650}",
             "type": "color"
           }
         },

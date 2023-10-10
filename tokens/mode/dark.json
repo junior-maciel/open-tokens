@@ -177,7 +177,37 @@
             "value": "{local.alert.color.on-dark.notice.active}",
             "type": "color"
           }
+        },
+        "on-notice": {
+          "normal": {
+            "value": "{local.alert.color.on-dark.on-notice.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-dark.on-notice.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-dark.on-notice.active}",
+            "type": "color"
+          }
         }
+      }
+    },
+    "overlay": {
+      "default": {
+        "value": "rgba({color.gray.900}, 0.6)",
+        "type": "color"
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "{text.color.on-dark.primary}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{text.color.on-dark.secondary}",
+        "type": "color"
       }
     }
   }

@@ -16,11 +16,19 @@
           "on-safety": {
             "value": "{theme.alert.color.on-notice.normal}",
             "type": "color"
+          },
+          "on-caution": {
+            "value": "{theme.alert.color.on-caution.normal}",
+            "type": "color"
           }
         },
         "icon": {
           "on-safety": {
             "value": "{theme.alert.color.on-notice.normal}",
+            "type": "color"
+          },
+          "on-caution": {
+            "value": "{theme.alert.color.on-caution.normal}",
             "type": "color"
           }
         }
@@ -32,6 +40,10 @@
           "value": "{theme.content.background.tertiary}",
           "type": "color"
         }
+      },
+      "border-radius": {
+        "value": "{border-radius.container}",
+        "type": "borderRadius"
       }
     },
     "content": {

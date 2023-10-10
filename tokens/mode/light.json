@@ -191,12 +191,26 @@
             "value": "{local.alert.color.on-light.on-notice.active}",
             "type": "color"
           }
+        },
+        "on-caution": {
+          "normal": {
+            "value": "{local.alert.color.on-light.on-caution.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.on-caution.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.on-caution.active}",
+            "type": "color"
+          }
         }
       }
     },
     "overlay": {
       "default": {
-        "value": "rgba({color.gray.900}, 0.8)",
+        "value": "rgba({color.gray.900}, 0.6)",
         "type": "color"
       }
     },

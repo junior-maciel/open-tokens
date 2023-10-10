@@ -655,6 +655,10 @@
     "input": {
       "value": "{border-radius.2}",
       "type": "borderRadius"
+    },
+    "container": {
+      "value": "{border-radius.4}",
+      "type": "borderRadius"
     }
   },
   "background": {
@@ -835,6 +839,20 @@
             "value": "{color.neutral.white}",
             "type": "color"
           }
+        },
+        "on-caution": {
+          "normal": {
+            "value": "{color.neutral.black}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.neutral.black}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.neutral.black}",
+            "type": "color"
+          }
         }
       },
       "on-dark": {
@@ -909,6 +927,20 @@
           }
         },
         "on-notice": {
+          "normal": {
+            "value": "{color.neutral.black}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.neutral.black}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.neutral.black}",
+            "type": "color"
+          }
+        },
+        "on-caution": {
           "normal": {
             "value": "{color.neutral.black}",
             "type": "color"

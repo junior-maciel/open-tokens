@@ -740,10 +740,6 @@
       "medium-plus": {
         "value": "{font-size.05}",
         "type": "fontSizes"
-      },
-      "small": {
-        "value": "{font-size.025}",
-        "type": "fontSizes"
       }
     }
   },

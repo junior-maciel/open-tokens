@@ -105,6 +105,80 @@
           "type": "color"
         }
       }
+    },
+    "alert": {
+      "color": {
+        "danger": {
+          "normal": {
+            "value": "{local.alert.color.on-dark.danger.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-dark.danger.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-dark.danger.active}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "normal": {
+            "value": "{local.alert.color.on-dark.warning.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-dark.warning.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-dark.warning.active}",
+            "type": "color"
+          }
+        },
+        "caution": {
+          "normal": {
+            "value": "{local.alert.color.on-dark.caution.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-dark.caution.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-dark.caution.active}",
+            "type": "color"
+          }
+        },
+        "general-safety": {
+          "normal": {
+            "value": "{local.alert.color.on-dark.general-safety.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-dark.general-safety.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-dark.general-safety.active}",
+            "type": "color"
+          }
+        },
+        "notice": {
+          "normal": {
+            "value": "{local.alert.color.on-dark.notice.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-dark.notice.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-dark.notice.active}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }

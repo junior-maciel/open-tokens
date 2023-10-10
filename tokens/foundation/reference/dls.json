@@ -742,5 +742,153 @@
         "type": "fontSizes"
       }
     }
+  },
+  "alert": {
+    "global": {
+      "on-light": {
+        "danger": {
+          "normal": {
+            "value": "{dls.signal.red.60}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{dls.signal.red.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{dls.signal.red.45}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "normal": {
+            "value": "{dls.signal.orange.45}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{dls.signal.orange.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{dls.signal.orange.60}",
+            "type": "color"
+          }
+        },
+        "caution": {
+          "normal": {
+            "value": "{dls.signal.yellow.45}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{dls.signal.yellow.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{dls.signal.yellow.60}",
+            "type": "color"
+          }
+        },
+        "general-safety": {
+          "normal": {
+            "value": "{dls.signal.green.60}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{dls.signal.green.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{dls.signal.green.45}",
+            "type": "color"
+          }
+        },
+        "notice": {
+          "normal": {
+            "value": "{dls.signal.blue.60}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{dls.signal.blue.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{dls.signal.blue.45}",
+            "type": "color"
+          }
+        }
+      },
+      "on-dark": {
+        "danger": {
+          "normal": {
+            "value": "{dls.signal.red.45}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{dls.signal.red.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{dls.signal.red.60}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "normal": {
+            "value": "{dls.signal.orange.45}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{dls.signal.orange.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{dls.signal.orange.60}",
+            "type": "color"
+          }
+        },
+        "caution": {
+          "normal": {
+            "value": "{dls.signal.yellow.45}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{dls.signal.yellow.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{dls.signal.yellow.60}",
+            "type": "color"
+          }
+        },
+        "general-safety": {
+          "normal": {
+            "value": "{dls.signal.green.45}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{dls.signal.green.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{dls.signal.green.60}",
+            "type": "color"
+          }
+        },
+        "notice": {
+          "normal": {
+            "value": "{dls.signal.blue.45}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{dls.signal.blue.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{dls.signal.blue.60}",
+            "type": "color"
+          }
+        }
+      }
+    }
   }
 }

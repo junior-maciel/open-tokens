@@ -105,6 +105,80 @@
           "type": "color"
         }
       }
+    },
+    "alert": {
+      "color": {
+        "danger": {
+          "normal": {
+            "value": "{local.alert.color.on-light.danger.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.danger.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.danger.active}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "normal": {
+            "value": "{local.alert.color.on-light.warning.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.warning.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.warning.active}",
+            "type": "color"
+          }
+        },
+        "caution": {
+          "normal": {
+            "value": "{local.alert.color.on-light.caution.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.caution.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.caution.active}",
+            "type": "color"
+          }
+        },
+        "general-safety": {
+          "normal": {
+            "value": "{local.alert.color.on-light.general-safety.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.general-safety.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.general-safety.active}",
+            "type": "color"
+          }
+        },
+        "notice": {
+          "normal": {
+            "value": "{local.alert.color.on-light.notice.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.notice.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.notice.active}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }

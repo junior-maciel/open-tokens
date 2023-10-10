@@ -33,6 +33,20 @@
             "value": "{theme.color.secondary.active}",
             "type": "color"
           }
+        },
+        "neutral": {
+          "normal": {
+            "value": "{theme.color.neutral.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{theme.color.neutral.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{theme.color.neutral.active}",
+            "type": "color"
+          }
         }
       },
       "padding": {
@@ -73,6 +87,20 @@
           },
           "active": {
             "value": "{theme.color.on-secondary.active}",
+            "type": "color"
+          }
+        },
+        "on-neutral": {
+          "normal": {
+            "value": "{theme.color.on-neutral.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{theme.color.on-neutral.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{theme.color.on-neutral.active}",
             "type": "color"
           }
         }

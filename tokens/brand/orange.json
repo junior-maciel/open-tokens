@@ -119,6 +119,28 @@
           }
         }
       }
+    },
+    "on-bright": {
+      "background": {
+        "content": {
+          "static": {
+            "value": "{color.neutral.black}",
+            "type": "color"
+          },
+          "primary": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{color.orange.400}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{color.orange.50}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }

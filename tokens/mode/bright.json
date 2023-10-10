@@ -1,1 +1,24 @@
-{}
+{
+  "theme": {
+    "content": {
+      "background": {
+        "primary": {
+          "value": "{brand.on-bright.background.content.primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{brand.on-bright.background.content.secondary}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{brand.on-bright.background.content.tertiary}",
+          "type": "color"
+        },
+        "static": {
+          "value": "{background.content.on-light.static}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

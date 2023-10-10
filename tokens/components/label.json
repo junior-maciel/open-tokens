@@ -1,0 +1,8 @@
+{
+  "label": {
+    "medium": {
+      "value": "{ref.label.medium}",
+      "type": "fontSizes"
+    }
+  }
+}

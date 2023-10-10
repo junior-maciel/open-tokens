@@ -1,0 +1,14 @@
+{
+  "date-picker": {
+    "label": {
+      "mouth": {
+        "value": "{ref.label.medium-plus}",
+        "type": "fontSizes"
+      },
+      "day": {
+        "value": "{ref.label.medium-minus}",
+        "type": "fontSizes"
+      }
+    }
+  }
+}

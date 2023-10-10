@@ -11,6 +11,7 @@
     "foundation/reference/dls",
     "foundation/reference/filament",
     "brand/dls-group-blue",
+    "brand/gray",
     "brand/blue",
     "brand/green",
     "brand/fil-cool-green",
@@ -27,6 +28,8 @@
     "density/regular-default",
     "density/large-touch",
     "components/button",
-    "components/dialog"
+    "components/dialog",
+    "components/label",
+    "components/date-picker"
   ]
 }

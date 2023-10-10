@@ -64,56 +64,78 @@
       "color": {
         "primary": {
           "normal": {
-            "value": "{color.group-blue.350}",
+            "value": "{color.gray.350}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.300}",
+            "value": "{color.gray.400}",
             "type": "color"
           },
           "active": {
-            "value": "{color.group-blue.250}",
+            "value": "{color.gray.450}",
             "type": "color"
           }
         },
         "on-primary": {
           "normal": {
-            "value": "{color.group-blue.950}",
+            "value": "{color.gray.950}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.950}",
+            "value": "{color.gray.950}",
             "type": "color"
           },
           "active": {
-            "value": "{color.group-blue.950}",
+            "value": "{color.gray.950}",
             "type": "color"
           }
         },
         "secondary": {
           "normal": {
-            "value": "{color.group-blue.850}",
+            "value": "{color.gray.600}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.800}",
+            "value": "{color.gray.650}",
             "type": "color"
           },
           "active": {
-            "value": "{color.group-blue.750}",
+            "value": "{color.gray.700}",
             "type": "color"
           }
         },
         "on-secondary": {
           "normal": {
-            "value": "{color.group-blue.50}",
+            "value": "{color.gray.50}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.group-blue.50}",
+            "value": "{color.gray.50}",
             "type": "color"
           },
           "active": {
+            "value": "{color.gray.50}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "on-bright": {
+      "background": {
+        "content": {
+          "static": {
+            "value": "{color.neutral.black}",
+            "type": "color"
+          },
+          "primary": {
+            "value": "{color.group-blue.500}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{color.group-blue.400}",
+            "type": "color"
+          },
+          "tertiary": {
             "value": "{color.group-blue.50}",
             "type": "color"
           }

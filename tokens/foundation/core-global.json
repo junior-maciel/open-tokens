@@ -727,5 +727,39 @@
         "type": "borderRadius"
       }
     }
+  },
+  "font-size": {
+    "1": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": "20px",
+      "type": "fontSizes"
+    },
+    "05": {
+      "value": "14px",
+      "type": "fontSizes"
+    },
+    "025": {
+      "value": "12px",
+      "type": "fontSizes"
+    }
+  },
+  "color": {
+    "neutral": {
+      "black": {
+        "value": "#000",
+        "type": "color"
+      },
+      "white": {
+        "value": "#FFF",
+        "type": "color"
+      },
+      "transparent": {
+        "value": "rgba(0,0,0,0)",
+        "type": "color"
+      }
+    }
   }
 }

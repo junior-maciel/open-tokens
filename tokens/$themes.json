@@ -49,6 +49,19 @@
     "group": "Mode"
   },
   {
+    "id": "46802cf46f0e6817d9c2149ac72e8569758f1e55",
+    "name": "light-high",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "mode/light-high": "source",
+      "components/button": "source",
+      "components/dialog": "source",
+      "components/label": "source",
+      "components/date-picker": "source"
+    },
+    "group": "Mode"
+  },
+  {
     "id": "9cbb9ac5c1097ed9f939773a54dd1e7512b8977a",
     "name": "bright",
     "$figmaStyleReferences": {},
@@ -56,7 +69,8 @@
       "mode/bright": "source",
       "components/button": "enabled",
       "components/dialog": "enabled",
-      "components/label": "enabled"
+      "components/label": "enabled",
+      "components/date-picker": "source"
     },
     "group": "Mode"
   },
@@ -74,24 +88,17 @@
     "group": "Mode"
   },
   {
-    "id": "46802cf46f0e6817d9c2149ac72e8569758f1e55",
-    "name": "light-high",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "mode/light": "source",
-      "mode/light-high": "source"
-    },
-    "group": "Contrast"
-  },
-  {
     "id": "c91a8011d18eb223158542617066fee4211d0223",
     "name": "dark-high",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/dark": "source",
-      "mode/dark-high": "source"
+      "mode/dark-high": "source",
+      "components/button": "source",
+      "components/dialog": "source",
+      "components/label": "source",
+      "components/date-picker": "source"
     },
-    "group": "Contrast"
+    "group": "Mode"
   },
   {
     "id": "1db401812a3a3651830b1e5b1ca6789d7a635ca7",

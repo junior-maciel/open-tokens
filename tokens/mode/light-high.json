@@ -1,1 +1,228 @@
-{}
+{
+  "theme": {
+    "color": {
+      "primary": {
+        "normal": {
+          "value": "{brand.on-light.color.primary.normal}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brand.on-light.color.primary.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brand.on-light.color.primary.active}",
+          "type": "color"
+        }
+      },
+      "on-primary": {
+        "normal": {
+          "value": "{brand.on-light.color.on-primary.active}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brand.on-light.color.on-primary.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brand.on-light.color.on-primary.active}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "normal": {
+          "value": "{brand.on-light.color.secondary.normal}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brand.on-light.color.secondary.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brand.on-light.color.secondary.active}",
+          "type": "color"
+        }
+      },
+      "on-secondary": {
+        "normal": {
+          "value": "{brand.on-light.color.on-secondary.normal}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brand.on-light.color.on-secondary.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{brand.on-light.color.on-secondary.active}",
+          "type": "color"
+        }
+      },
+      "neutral": {
+        "normal": {
+          "value": "{background.neutral.on-light.normal}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{background.neutral.on-light.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{background.neutral.on-light.active}",
+          "type": "color"
+        }
+      },
+      "on-neutral": {
+        "normal": {
+          "value": "{color.gray.950}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.gray.950}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.gray.950}",
+          "type": "color"
+        }
+      }
+    },
+    "content": {
+      "background": {
+        "primary": {
+          "value": "{background.content.on-light.primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{background.content.on-light.secondary}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{background.content.on-light.tertiary}",
+          "type": "color"
+        },
+        "static": {
+          "value": "{background.content.on-light.static}",
+          "type": "color"
+        }
+      }
+    },
+    "alert": {
+      "color": {
+        "danger": {
+          "normal": {
+            "value": "{local.alert.color.on-light.danger.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.danger.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.danger.active}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "normal": {
+            "value": "{local.alert.color.on-light.warning.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.warning.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.warning.active}",
+            "type": "color"
+          }
+        },
+        "caution": {
+          "normal": {
+            "value": "{local.alert.color.on-light.caution.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.caution.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.caution.active}",
+            "type": "color"
+          }
+        },
+        "general-safety": {
+          "normal": {
+            "value": "{local.alert.color.on-light.general-safety.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.general-safety.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.general-safety.active}",
+            "type": "color"
+          }
+        },
+        "notice": {
+          "normal": {
+            "value": "{local.alert.color.on-light.notice.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.notice.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.notice.active}",
+            "type": "color"
+          }
+        },
+        "on-notice": {
+          "normal": {
+            "value": "{local.alert.color.on-light.on-notice.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.on-notice.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.on-notice.active}",
+            "type": "color"
+          }
+        },
+        "on-caution": {
+          "normal": {
+            "value": "{local.alert.color.on-light.on-caution.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{local.alert.color.on-light.on-caution.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{local.alert.color.on-light.on-caution.active}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "overlay": {
+      "default": {
+        "value": "rgba({color.gray.900}, 0.6)",
+        "type": "color"
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "{text.color.on-light.primary}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{text.color.on-light.secondary}",
+        "type": "color"
+      }
+    }
+  }
+}

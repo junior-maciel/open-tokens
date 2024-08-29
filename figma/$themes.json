@@ -4,19 +4,15 @@
     "name": "UltraLight - Green",
     "selectedTokenSets": {
       "semantic/light": "enabled",
-      "semantic/dark": "disabled",
       "components/button": "enabled",
       "components/avatar": "enabled",
       "tonal / signal / green": "enabled",
       "tonal / navigational / group-blue": "enabled",
-      "tonal / navigational / blue": "disabled",
       "core / color": "source",
       "core / sizings": "source",
       "core / spacings": "source",
       "core / typographies": "source",
-      "tonal / accent / blue": "disabled",
-      "tonal / accent / green": "enabled",
-      "tonal / accent / group-blue": "disabled"
+      "tonal / accent / green": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -24,20 +20,16 @@
     "id": "46f6438cb7638fae737db55da0465b1efa317a01",
     "name": "VeryDark - Blue",
     "selectedTokenSets": {
-      "semantic/light": "disabled",
       "semantic/dark": "enabled",
       "components/button": "enabled",
       "components/avatar": "enabled",
       "tonal / signal / green": "enabled",
-      "tonal / navigational / group-blue": "disabled",
       "tonal / navigational / blue": "enabled",
       "core / color": "source",
       "core / sizings": "source",
       "core / spacings": "source",
       "core / typographies": "source",
-      "tonal / accent / blue": "enabled",
-      "tonal / accent / green": "disabled",
-      "tonal / accent / group-blue": "disabled"
+      "tonal / accent / blue": "enabled"
     },
     "$figmaStyleReferences": {}
   }

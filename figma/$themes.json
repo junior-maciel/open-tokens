@@ -6,14 +6,7 @@
     "selectedTokenSets": {
       "components/button": "source",
       "components/label": "source",
-      "components/tag": "source",
-      "brand/blue": "disabled",
-      "modo/semantic": "disabled",
-      "modo/light": "disabled",
-      "modo/dark": "disabled",
-      "modo/static": "disabled",
-      "modo/expressive": "disabled",
-      "modo/high-contrast": "disabled"
+      "components/tag": "source"
     },
     "group": "All Components"
   },
@@ -23,14 +16,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "source",
-      "generation/emr": "source",
-      "brand/blue": "disabled",
-      "modo/semantic": "disabled",
-      "modo/light": "disabled",
-      "modo/dark": "disabled",
-      "modo/static": "disabled",
-      "modo/expressive": "disabled",
-      "modo/high-contrast": "disabled"
+      "generation/emr": "source"
     },
     "group": "Generation"
   },
@@ -40,14 +26,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "source",
-      "generation/dls": "source",
-      "brand/blue": "disabled",
-      "modo/semantic": "disabled",
-      "modo/light": "disabled",
-      "modo/dark": "disabled",
-      "modo/static": "disabled",
-      "modo/expressive": "disabled",
-      "modo/high-contrast": "disabled"
+      "generation/dls": "source"
     },
     "group": "Generation"
   },
@@ -57,14 +36,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "source",
-      "generation/filament": "source",
-      "brand/blue": "disabled",
-      "modo/semantic": "disabled",
-      "modo/light": "disabled",
-      "modo/dark": "disabled",
-      "modo/static": "disabled",
-      "modo/expressive": "disabled",
-      "modo/high-contrast": "disabled"
+      "generation/filament": "source"
     },
     "group": "Generation"
   },

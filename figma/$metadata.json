@@ -1,18 +1,20 @@
 {
   "tokenSetOrder": [
-    "core / color",
-    "core / sizings",
-    "core / spacings",
-    "core / typographies",
-    "tonal / navigational / blue",
-    "tonal / navigational / group-blue",
-    "tonal / accent / blue",
-    "tonal / accent / green",
-    "tonal / accent / group-blue",
-    "tonal / signal / green",
-    "semantic/light",
-    "semantic/dark",
+    "foundation/primitives",
+    "content/semantic",
+    "content/light",
+    "content/dark",
+    "content/static",
+    "content/expressive",
+    "content/high-contrast",
+    "generation/emr",
+    "generation/dls",
+    "generation/filament",
+    "brand/semantic",
+    "localization/semantic",
+    "localization/japan",
     "components/button",
-    "components/avatar"
+    "components/label",
+    "components/tag"
   ]
 }

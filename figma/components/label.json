@@ -1,1 +1,8 @@
-{}
+{
+  "label": {
+    "font-family": {
+      "$type": "fontFamilies",
+      "$value": "{font.family.default}"
+    }
+  }
+}

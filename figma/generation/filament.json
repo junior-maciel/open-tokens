@@ -74,5 +74,13 @@
         "$value": "{foundation.fil.color.blue.14}"
       }
     }
+  },
+  "font": {
+    "family": {
+      "default": {
+        "$type": "fontFamilies",
+        "$value": "{foundation.font-family.next}"
+      }
+    }
   }
 }

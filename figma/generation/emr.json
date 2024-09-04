@@ -74,5 +74,13 @@
         "$value": "{foundation.emr.color.blue.90}"
       }
     }
+  },
+  "font": {
+    "family": {
+      "default": {
+        "$type": "fontFamilies",
+        "$value": "{foundation.font-family.condensed}"
+      }
+    }
   }
 }

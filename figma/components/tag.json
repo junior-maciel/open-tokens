@@ -1,1 +1,40 @@
-{}
+{
+  "tag": {
+    "background": {
+      "severity": {
+        "high": {
+          "danger": {
+            "normal": {
+              "$type": "color",
+              "$value": "{alert-color.danger.high.normal}"
+            },
+            "hover": {
+              "$type": "color",
+              "$value": "{alert-color.danger.high.hover}"
+            },
+            "active": {
+              "$type": "color",
+              "$value": "{alert-color.danger.high.active}"
+            }
+          }
+        },
+        "low": {
+          "danger": {
+            "normal": {
+              "$type": "color",
+              "$value": "{alert-color.danger.low.normal}"
+            },
+            "hover": {
+              "$type": "color",
+              "$value": "{alert-color.danger.low.hover}"
+            },
+            "active": {
+              "$type": "color",
+              "$value": "{alert-color.danger.low.active}"
+            }
+          }
+        }
+      }
+    }
+  }
+}

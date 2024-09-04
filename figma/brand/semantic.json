@@ -1,1 +1,57 @@
-{}
+{
+  "brand-color": {
+    "primary": {
+      "normal": {
+        "$type": "color",
+        "$value": "{color.500}"
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "{color.550}"
+      },
+      "active": {
+        "$type": "color",
+        "$value": "{color.600}"
+      },
+      "selected": {
+        "$type": "color",
+        "$value": "{color.500}"
+      },
+      "disabled": {
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "srgb"
+            }
+          }
+        },
+        "$type": "color",
+        "$value": "{color.500}"
+      }
+    },
+    "secondary": {
+      "normal": {
+        "$type": "color",
+        "$value": "#"
+      },
+      "hover": {
+        "$type": "color",
+        "$value": "#"
+      },
+      "active": {
+        "$type": "color",
+        "$value": "#"
+      },
+      "selected": {
+        "$type": "color",
+        "$value": "#"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "#"
+      }
+    }
+  }
+}

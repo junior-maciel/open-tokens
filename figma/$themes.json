@@ -1,1 +1,120 @@
-[]
+[
+  {
+    "id": "0f031e770d851653c61a98efa284a5e68346c28c",
+    "name": "Components",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "components/button": "source",
+      "components/label": "source",
+      "components/tag": "source",
+      "brand/blue": "disabled",
+      "modo/semantic": "disabled",
+      "modo/light": "disabled",
+      "modo/dark": "disabled",
+      "modo/static": "disabled",
+      "modo/expressive": "disabled",
+      "modo/high-contrast": "disabled"
+    },
+    "group": "All Components"
+  },
+  {
+    "id": "4c8326d95746b920ab816c45abcfa135f765cf79",
+    "name": "emr",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation/primitives": "source",
+      "generation/emr": "source",
+      "brand/blue": "disabled",
+      "modo/semantic": "disabled",
+      "modo/light": "disabled",
+      "modo/dark": "disabled",
+      "modo/static": "disabled",
+      "modo/expressive": "disabled",
+      "modo/high-contrast": "disabled"
+    },
+    "group": "Generation"
+  },
+  {
+    "id": "fd4afba669373d2e35a7d914fa103f9e72792b9a",
+    "name": "dls",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation/primitives": "source",
+      "generation/dls": "source",
+      "brand/blue": "disabled",
+      "modo/semantic": "disabled",
+      "modo/light": "disabled",
+      "modo/dark": "disabled",
+      "modo/static": "disabled",
+      "modo/expressive": "disabled",
+      "modo/high-contrast": "disabled"
+    },
+    "group": "Generation"
+  },
+  {
+    "id": "d92f48de1123b3695e69eef3d1c0c45224e446e5",
+    "name": "filament",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation/primitives": "source",
+      "generation/filament": "source",
+      "brand/blue": "disabled",
+      "modo/semantic": "disabled",
+      "modo/light": "disabled",
+      "modo/dark": "disabled",
+      "modo/static": "disabled",
+      "modo/expressive": "disabled",
+      "modo/high-contrast": "disabled"
+    },
+    "group": "Generation"
+  },
+  {
+    "id": "6eed17ad9db2b0bec92fa65a5ca841e65a45ac70",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "modo/semantic": "source",
+      "modo/light": "source"
+    },
+    "group": "Mode"
+  },
+  {
+    "id": "5f8eacd3a63489699c4e61212b4c4185a2e021a0",
+    "name": "Blue",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/semantic": "source",
+      "brand/blue": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "66df020cfefc0e8762340de618094cf39783b762",
+    "name": "Default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/semantic": "source"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "8a9260659625922d886f251e5d49403038c5ffb1",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "modo/semantic": "source",
+      "modo/dark": "source"
+    },
+    "group": "Mode"
+  },
+  {
+    "id": "353a5180f8d4346144bd27b12c6d39a19e24df3e",
+    "name": "Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "modo/semantic": "source",
+      "modo/expressive": "source"
+    },
+    "group": "Mode"
+  }
+]

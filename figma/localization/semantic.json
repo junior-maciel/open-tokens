@@ -1,1 +1,80 @@
-{}
+{
+  "alert-color": {
+    "danger": {
+      "high": {
+        "normal": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "#"
+        }
+      },
+      "low": {
+        "normal": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "#"
+        }
+      }
+    },
+    "caution": {
+      "high": {
+        "normal": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "#"
+        }
+      },
+      "low": {
+        "normal": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "#"
+        }
+      }
+    }
+  }
+}

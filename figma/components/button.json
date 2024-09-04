@@ -1,1 +1,114 @@
-{}
+{
+  "button": {
+    "background": {
+      "primary": {
+        "normal": {
+          "$type": "color",
+          "$value": "{brand-color.primary.normal}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{brand-color.primary.hover}"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "{brand-color.primary.active}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{brand-color.primary.disabled}"
+        }
+      },
+      "secondary": {
+        "normal": {
+          "$type": "color",
+          "$value": "{brand-color.secondary.normal}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{brand-color.secondary.hover}"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "{brand-color.secondary.active}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{brand-color.secondary.disabled}"
+        }
+      },
+      "quiet": {
+        "normal": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "#"
+        }
+      },
+      "quiet-emphasy": {
+        "normal": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "#"
+        }
+      },
+      "accent": {
+        "normal": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "#"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "#"
+        }
+      },
+      "danger": {
+        "normal": {
+          "$type": "color",
+          "$value": "{alert-color.danger.high.normal}"
+        },
+        "hover": {
+          "$type": "color",
+          "$value": "{alert-color.danger.high.hover}"
+        },
+        "active": {
+          "$type": "color",
+          "$value": "{alert-color.danger.high.active}"
+        },
+        "disabled": {
+          "$type": "color",
+          "$value": "{alert-color.danger.high.disabled}"
+        }
+      }
+    }
+  }
+}

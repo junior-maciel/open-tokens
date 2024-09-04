@@ -1,1 +1,78 @@
-{}
+{
+  "color": {
+    "blue": {
+      "100": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.05}"
+      },
+      "150": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.10}"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.15}"
+      },
+      "250": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.20}"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.25}"
+      },
+      "350": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.30}"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.35}"
+      },
+      "450": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.40}"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.45}"
+      },
+      "550": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.50}"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.55}"
+      },
+      "650": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.60}"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.65}"
+      },
+      "750": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.70}"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.75}"
+      },
+      "850": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.80}"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.85}"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "{foundation.emr.color.blue.90}"
+      }
+    }
+  }
+}
